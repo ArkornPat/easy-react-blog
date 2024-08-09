@@ -1,0 +1,41 @@
+
+/* Title styling */
+.title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Image styling */
+.containner img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 8px;
+}
+
+/* Blog detail styling */
+.blog-detail {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #555;
+    padding: 30px;
+}
+
+/* Author styling */
+.blog-detail strong {
+    font-size: 2em;
+    color: #444;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Content styling */
+.blog-detail p {
+    font-size: 1em;
+    margin: 0;
+    text-align: justify;
+}
